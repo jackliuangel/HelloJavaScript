@@ -1,2 +1,2 @@
 # HelloJavaScript
-learn JS family
+learn JS family: js, node.js, type script
