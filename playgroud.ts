@@ -30,7 +30,7 @@ var a = function(b){console.log("just show what is inputed "+b);};
 console.log(a(123))
 
 
-var withresultFunction = ({name, age}:Stu)
+// var withresultFunction = ({name, 5}:Stu);
 
 
 
@@ -55,3 +55,4 @@ function lazySum(a,b){
     }
     return delegatedSum;
 }
+

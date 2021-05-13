@@ -30,3 +30,6 @@ let myAdd: (baseValue: number, increment: number) => number = function (
 
  let result:number = myAdd(3,4);
  console.log(result);
+
+
+ 
