@@ -1,3 +1,4 @@
-# HelloJavaScript
-learn JS family
-export module and npm use module
+### HelloJavaScript
+
+* [ ] learn JS family: node js; type script
+* [ ] export module and npm use module

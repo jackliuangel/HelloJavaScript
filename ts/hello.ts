@@ -1,5 +1,3 @@
-
-
 'use strict';
 
 interface Props {
@@ -14,7 +12,7 @@ interface Props {
   }
 
 
-  console.log(resultWithFunction({name:"12",age:3}));
+  console.log(resultWithFunction({name:"Lucas",age:3}));
 
 let message: string = 'Hello World';
 console.log(message);
@@ -32,4 +30,11 @@ let myAdd: (baseValue: number, increment: number) => number = function (
  console.log(result);
 
 
+ function hello(name:String){
+   console.log('hello'+name);
+ }
+
+ module.exports = {
+  hello: hello
+};
  
